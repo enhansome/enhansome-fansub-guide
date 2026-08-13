@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Capping"
+    },
+    {
+      "description": "The idea is to obtain the source media.\nThe best sources are usually raw Digital Video Disc (DVD) or raw Blu-ray Disc Movie (BDMV) but uploads are not always available.\nIf not, then capping can also mean buying the retail media. Consider buying Anime DVDs/BDs to support the industry. Otherwise, existing VHS/LD/DVD/BD or web rips can be of acceptable quality.\nFor broadcast streams, capping means recording the analog stream and then digitizing it with special hardware or, for internet simulcasts (digital), means stream copying with special software. Sometimes raws can also be obtained from invite-only private trackers. See the \"Remux\" section for capturing subtitles.",
+      "items": [],
+      "title": "Capping Theory"
+    },
+    {
+      "description": "For Analog TV, 8mm, VHS and LD, see Analog Video\nTo extract subtitles, please see the Muxing and Remux sections.\nFor general subtitle conversion: Subtitle Edit and their documentation.\nFor simple stream extraction: MKVToolNix + gMKVExtractGUI, or even just FFMPEG. Also see Muxing section.",
+      "items": [],
+      "title": "Links"
+    },
+    {
+      "description": "Digital Signal Processing. Have fun.",
+      "items": [],
+      "title": "Digital TV/Cable/Satellite"
+    },
+    {
+      "description": "DVD-Decrypter, a DVD Decrypter Guide, PDF and a second guide.",
+      "items": [],
+      "title": "Digital Video Disc (DVD)"
+    },
+    {
+      "description": "MakeMKV, and Handbrake and MakeMKV Guide.",
+      "items": [],
+      "title": "DVD/Blu-ray Disc (BD)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Encoding"
+    },
+    {
+      "description": "Video can be described as a series of pictures shown quickly in succession.\nThe most basic reasons to encode video are to preserve complex changes (such as any filtering) and to make the video stream smaller. Even a minute of raw uncompressed video is several GigaBytes (GB) in size. The basic idea is to reduce the file size to subjective \"acceptable\" levels while retaining the highest quality possible.\nMotion Picture Engineering Group (MPEG) video encoding works by compressing one picture (known as a \"key frame\") and then recording any changes between that frame and the next frame. And then recording the changes between that second frame and the frame after and so forth. To display any given frame, every frame before it must be decoded starting from the nearest previous key frame.",
+      "items": [],
+      "title": "Video Theory (Basic)"
+    },
+    {
+      "description": "Following encoding guides without understanding the theory is just asking for trouble, but, with so much background necessary, there is just not a good place to starting learning about video encoding. This one is close: A&E's Technical Guides to All Things Audio and Video (v3), PDF. Read this in its entirety.\nNo excuses.\nA&E's guide is dated but very good for theory. More modern workflow guides are found further below.",
+      "items": [],
+      "title": "Video Theory (Complete)"
+    },
+    {
+      "description": "Bitrate Viewer Able to estimate the quality of MPEG1 and MPEG2 streams. I do not know how this is useful but Etzimal said to add it. o_o*",
+      "items": [],
+      "title": "QC (?)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Playback"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Muxing and Demuxing"
+    },
+    {
+      "description": "For muxing, the idea is to take multiple discrete files (video, audio, subtitles, fonts) and merge them together into a single file for playback. For demuxing, the idea is to take one file that contains multiple streams and extract out at least one of them.\nMuxing typically means shortening, lengthening or delaying streams for syncing. Shortening and delaying are compatible with stream copying techniques. However, any lengthening or modifications done mid-stream will typically require transcoding the entire stream. Thus, the two tasks (encoding and muxing) overlap somewhat.\nDemuxing is usually necessary to obtain sources to work from and can be thought of as part of Capping.\nThe typical containers used are either Matroska (.mkv) with softsubs, fonts and possibly multiple audio streams, or standard MPEG-4 (.mp4) containers with hardsubs and a single audio stream.",
+      "items": [],
+      "title": "Muxing and Demuxing Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Filtering"
+    },
+    {
+      "description": "To avoid transcoding multiple times or transferring losslessly encoded video, ideally, Filtering and Encoding should be done by the same person.",
+      "items": [],
+      "title": "Preface"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Typesetting"
+    },
+    {
+      "description": "Check out Underwater's Styling Guide [PDF].",
+      "items": [],
+      "title": "Styling Links"
+    },
+    {
+      "description": "Typesetting is mostly making sure the subtitle dialogue is visually legible and signs look like they are natively part of the video. Typesetting can also extend to styling the opening, ending and insert songs, including fancy karaoke.\nMore theory. The most important part of typesetting is also the simplest: make sure the dialogue is readable.\nWhile Typesetting is actually quite strait-forward, doing it efficiently and well is something else entirely.",
+      "items": [],
+      "title": "Typesetting Theory"
+    },
+    {
+      "description": "Theory: This is an optional subcategory of typesetting that adds additional special effects to karaoke. Usually, KFX refers to effects beyond simple k-timing. KFX can be added to k-timed lines by applying a KFX template, modifying existing effects, or creating new effects.\nSome KFX can exist in softsub.ass but others must be pre-rendered (hardcoded) either because the tool to create them draws on the video stream directly, independent of k-timing, or because dynamically rendering the effect would cause severe stuttering during playback.\nAs with all typesetting, applying KFX can actually be quite strait-forward, but creating and modifying new and visually appealing KFX is something else entirely. More intro.",
+      "items": [],
+      "title": "Karaoke Effects (KFX)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distribute (Distro)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distro For Do It Yourself (DIY) People"
+    },
+    {
+      "description": "Remuxers typically focus on improving work done by other groups, combining work done by multiple groups and/or combing subs with better Audio/Visual (A/V) sources.",
+      "items": [],
+      "title": "Remux"
+    },
+    {
+      "description": "Digital is an exercise in precision, while analog was an exercise in controlled chaos.\" -digitalfaq.com, Forums.",
+      "items": [],
+      "title": "In Service of Chaos: Analog"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:49.191Z",
+    "original_repository": "zeriyu/fansub-guide",
+    "original_repository_sha": "04c4c6de85366ac3ab49176af039a6ebc9f9e1eb",
+    "enhanced_repository": "enhansome/enhansome-fansub-guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fansubbing and Encoding Guides Index with stars"
+  }
+}

@@ -429,7 +429,7 @@ Beyond basic tasks, filtering has diminishing returns. It is very time consuming
   * josemaria.alkala's [random x86 filters](//bitbucket.org/josemaria.alkala/avisynth_filters/src).
   * StainlessS's [repository](//www.mediafire.com/folder/hb26mthbjz7z6/StainlessS).
 * Misc:
-  * [nnedi3](http://avisynth.nl/index.php/Nnedi3), [binaries](https://github.com/jpsdr/NNEDI3/releases/) ⭐ 88 | 🐛 2 | 🌐 Assembly | 📅 2026-08-15, and [nnedi3\_resize16](https://www.nmm-hd.org/newbbs/viewtopic.php?f=7\&t=1117). "\[...] NNEDI3, which was originally designed as an intrafield deinterlacer\[, ...] is also useful for enlarging images by powers of two. Compared to earlier NNEDI versions, v3 has an improved predictor neural network architecture and local neighborhood pre-processing. NNEDI3’s neural network consists of 16 to 256 neurons. 32 neurons generally has the best quality for performance." -[src](https://freetime.mikeconnelly.com/archives/1206)
+  * [nnedi3](http://avisynth.nl/index.php/Nnedi3), [binaries](https://github.com/jpsdr/NNEDI3/releases/) ⭐ 88 | 🐛 2 | 🌐 Assembly | 📅 2026-08-16, and [nnedi3\_resize16](https://www.nmm-hd.org/newbbs/viewtopic.php?f=7\&t=1117). "\[...] NNEDI3, which was originally designed as an intrafield deinterlacer\[, ...] is also useful for enlarging images by powers of two. Compared to earlier NNEDI versions, v3 has an improved predictor neural network architecture and local neighborhood pre-processing. NNEDI3’s neural network consists of 16 to 256 neurons. 32 neurons generally has the best quality for performance." -[src](https://freetime.mikeconnelly.com/archives/1206)
   * [Hysteria](//www.animemusicvideos.org/forum/viewtopic.php?t=101471). Line darkner.
   * ["Tweak" guide](http://avisynth.nl/index.php/Tweak) for fine adjustment of colors. Hint: Use maxsat=15-35.
   * [Histogram](http://avisynth.nl/index.php/Histogram), [alternative](http://avisynth.nl/index.php/Histograms_in_RGB_%26_CMY). Useful for analyzing colors shifts in color families without separate luma.
@@ -805,7 +805,7 @@ As with all typesetting, applying KFX can actually be quite strait-forward, but 
   * arakasi72's "rtinst" for Debian and Ubuntu: [Github](//github.com/arakasi72/rtinst). Note: I have not tested this.
 * [qBittorrent](http://www.qbittorrent.org), [Wiki](//github.com/qbittorrent/qBittorrent/wiki), is cross platform and cross-architecture.
   * `sudo apt-get install -y qbittorrent`
-  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,484 | 🐛 2,702 | 🌐 C++ | 📅 2026-08-15. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
+  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,504 | 🐛 2,699 | 🌐 C++ | 📅 2026-08-16. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
 
 #### HTTP File Server
 
@@ -929,4 +929,4 @@ The idea is to digitize the analog audio and video signals.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

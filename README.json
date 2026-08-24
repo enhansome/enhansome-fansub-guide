@@ -1,7 +1,192 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Native Resolutions and Scaling",
+              "description": "and automation script.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105677242,
+                "language": "Python",
+                "last_commit": "2025-11-18T14:17:40Z",
+                "owner": "Infiziert90",
+                "repo": "getnative",
+                "stars": 249
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resolution Theory and Standards"
+        }
+      ],
+      "title": "Encoding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Misc:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "nnedi3",
+                      "description": ", binaries, and nnedi3_resize16. \"[...] NNEDI3, which was originally designed as an intrafield deinterlacer[, ...] is also useful for enlarging images by powers of two. Compared to earlier NNEDI versions, v3 has an improved predictor neural network architecture and local neighborhood pre-processing. NNEDI3’s neural network consists of 16 to 256 neurons. 32 neurons generally has the best quality for performance.\" -src",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 15613550,
+                        "language": "Assembly",
+                        "last_commit": "2026-08-16T10:02:33Z",
+                        "owner": "jpsdr",
+                        "repo": "NNEDI3",
+                        "stars": 88
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AviSynth"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        }
+      ],
+      "title": "Filtering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Client Side:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "For automatic torrent submission:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Golumpa's AniDexPy",
+                      "description": ". A simple Python tool for uploading to AniDex via its API.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 98699134,
+                        "language": "Python",
+                        "last_commit": "2017-08-28T16:41:19Z",
+                        "owner": "Golumpa",
+                        "repo": "AniDexPy",
+                        "stars": 2
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "#1: Torrents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Patches",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "To create a patch:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Or xdelta3 GUI",
+                      "description": "for GUI people. Also see: Moodkiller's xdelta3 rebooted fork.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 76774658,
+                        "language": "C#",
+                        "last_commit": "2019-08-11T09:52:31Z",
+                        "owner": "Moodkiller",
+                        "repo": "xdelta3-gui-2.0",
+                        "stars": 72
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Random Distro Tools"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "qBittorrent",
+                  "description": ", Wiki, is cross platform and cross-architecture.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Or compile it to get the latest v3.x version: official compiling documentation",
+                      "description": ", arm7 compile instructions and Banana seedbox. v4.x requires QT5. Have fun.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 3351871,
+                        "language": "C++",
+                        "last_commit": "2026-08-24T11:11:44Z",
+                        "owner": "qbittorrent",
+                        "repo": "qBittorrent",
+                        "stars": 39677
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Seedbox Software"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Distro For Do It Yourself (DIY) People"
+        }
+      ],
+      "title": "Distribute (Distro)"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:44:06.921Z",
+    "last_updated": "2026-08-24T14:47:21.197Z",
     "original_repository": "zeriyu/fansub-guide",
     "original_repository_id": 259619930,
     "original_repository_sha": "04c4c6de85366ac3ab49176af039a6ebc9f9e1eb",

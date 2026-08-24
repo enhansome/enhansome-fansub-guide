@@ -672,8 +672,8 @@ As with all typesetting, applying KFX can actually be quite strait-forward, but 
       * Requires [Python 3.1+](//www.python.org/downloads/release) by default, but it is possible to use [pyinstaller](//pythonhosted.org/PyInstaller) to compile it into a native binary (.exe).
   * After that, upload myfile.torrent to some website. This will register it or start the registration process with the tracker if necessary. Give it a description so other peers know what you are offering.
   * For automatic torrent submission:
-    * Seiya's Anidex Torrent Uploader: [Kametsu thread](//kametsu.com/topic/60527-anidex-torrent-uploader-upload-torrent-to-multiply-anime-trackers) and [Github](//github.com/seiya-dev/anidex).
     * Golumpa's [AniDexPy](https://github.com/Golumpa/AniDexPy) ⚠️ Archived. A simple Python tool for uploading to AniDex via its API.
+    * Seiya's Anidex Torrent Uploader: [Kametsu thread](//kametsu.com/topic/60527-anidex-torrent-uploader-upload-torrent-to-multiply-anime-trackers) and [Github](//github.com/seiya-dev/anidex).
   * Note: This only distributes the meta-file. For the distribution of the content, use a [seedbox](//en.wikipedia.org/wiki/Seedbox).
 
 * **Seedbox Theory**:
@@ -759,8 +759,8 @@ As with all typesetting, applying KFX can actually be quite strait-forward, but 
   * 13ack.Stab's [Guide to V2 Patches](http://www.animepassion.net/topic/485-guide-to-v2-patches).
   * Using patches: a simple example [FFF's Mirai Niki 7 - Patch](//mega.nz/#F!wUYwDSgA!8tx_37HUBcs9KqPhkk5FmQ) and [some complicated examples](//mega.nz/#F!Mc4zwDaQ!hJ5xLfs8GzkHqKPxNp2hLQ).
   * To create a patch:
-    * CLI: xdelta3 -e 9 -s old\_file new\_file delta\_file
     * Or [xdelta3 GUI](//osdn.net/projects/sfnet_xdelta3-gui) for GUI people. Also see: Moodkiller's [xdelta3 rebooted fork](https://github.com/Moodkiller/xdelta3-gui-2.0) ⭐ 72 | 🐛 6 | 🌐 C# | 📅 2019-08-11.
+    * CLI: xdelta3 -e 9 -s old\_file new\_file delta\_file
   * A binary version of xdelta3.exe can be obtained from the above patch examples or from [xdelta3 GUI](//osdn.net/projects/sfnet_xdelta3-gui).
 
 ### The Group Blog
@@ -804,8 +804,8 @@ As with all typesetting, applying KFX can actually be quite strait-forward, but 
     * Only works for x86\_64 on certain Ubuntu/Debian versions:
   * arakasi72's "rtinst" for Debian and Ubuntu: [Github](//github.com/arakasi72/rtinst). Note: I have not tested this.
 * [qBittorrent](http://www.qbittorrent.org), [Wiki](//github.com/qbittorrent/qBittorrent/wiki), is cross platform and cross-architecture.
+  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,677 | 🐛 2,694 | 🌐 C++ | 📅 2026-08-24. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
   * `sudo apt-get install -y qbittorrent`
-  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,655 | 🐛 2,699 | 🌐 C++ | 📅 2026-08-22. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
 
 #### HTTP File Server
 
@@ -929,4 +929,4 @@ The idea is to digitize the analog audio and video signals.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

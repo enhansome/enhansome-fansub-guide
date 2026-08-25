@@ -214,7 +214,7 @@ A\&E's guide is dated but very good for theory. More modern workflow guides are 
 
 ### Resolution Theory and Standards
 
-* [Native Resolutions and Scaling](//kageru.moe/blog/article/resolutions) and [automation script](https://github.com/Infiziert90/getnative) ⭐ 249 | 🐛 2 | 🌐 Python | 📅 2025-11-18.
+* [Native Resolutions and Scaling](//kageru.moe/blog/article/resolutions) and [automation script](https://github.com/Infiziert90/getnative) ⭐ 248 | 🐛 2 | 🌐 Python | 📅 2025-11-18.
 * Questionable links on resolution standards: [random article](https://www.bestusbpoweredmonitor.com/2017/08/16/720p-vs-1080p-vs-1440p-vs-4k-vs-8k/) and [another one](https://www.lifewire.com/720p-vs-1080p-a-comparison-1847332).
 * Blog with native resolutions for [various shows](//anibin.blogspot.com/2017/07/blog-post.html).
 * [Scaling Theory and Algorithms](//www.cambridgeincolour.com/tutorials/image-interpolation.htm), [Part 2](//www.cambridgeincolour.com/tutorials/image-resize-for-web.htm).
@@ -804,7 +804,7 @@ As with all typesetting, applying KFX can actually be quite strait-forward, but 
     * Only works for x86\_64 on certain Ubuntu/Debian versions:
   * arakasi72's "rtinst" for Debian and Ubuntu: [Github](//github.com/arakasi72/rtinst). Note: I have not tested this.
 * [qBittorrent](http://www.qbittorrent.org), [Wiki](//github.com/qbittorrent/qBittorrent/wiki), is cross platform and cross-architecture.
-  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,678 | 🐛 2,694 | 🌐 C++ | 📅 2026-08-24. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
+  * Or compile it to get the latest v3.x version: [official compiling documentation](//github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Debian-and-Ubuntu), [arm7 compile instructions](//gist.github.com/jDmacD/9e38542901b9672728f088abd353a0a1) and [Banana seedbox](https://github.com/qbittorrent/qBittorrent/wiki/Compiling-qBittorrent-on-Raspbian-for-LeMaker-Banana-Pro) ⭐ 39,684 | 🐛 2,694 | 🌐 C++ | 📅 2026-08-24. v4.x requires QT5. [Have fun](https://wiki.qt.io/Native_Build_of_Qt_5.4.1_on_a_Raspberry_Pi).
   * `sudo apt-get install -y qbittorrent`
 
 #### HTTP File Server
@@ -929,4 +929,4 @@ The idea is to digitize the analog audio and video signals.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

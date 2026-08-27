@@ -166,7 +166,7 @@
                         "last_commit": "2026-08-24T11:11:44Z",
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 39717
+                        "stars": 39727
                       }
                     }
                   ]
@@ -186,9 +186,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:59:05.918Z",
-    "original_repository": "zeriyu/fansub-guide",
-    "original_repository_id": 259619930,
+    "last_updated": "2026-08-27T11:38:35.484Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 259619930,
+      "language": null,
+      "last_commit": "2020-04-29T17:26:58Z",
+      "owner": "zeriyu",
+      "repo": "fansub-guide",
+      "stars": 57
+    },
     "original_repository_sha": "04c4c6de85366ac3ab49176af039a6ebc9f9e1eb",
     "enhanced_repository": "enhansome/enhansome-fansub-guide",
     "enhanced_repository_description": null,

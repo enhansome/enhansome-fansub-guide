@@ -18,7 +18,8 @@
                 "owner": "Infiziert90",
                 "repo": "getnative",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-29T01:43:31.558Z"
             }
           ],
           "description": null,
@@ -53,7 +54,8 @@
                         "owner": "jpsdr",
                         "repo": "NNEDI3",
                         "stars": 88
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:43:31.558Z"
                     }
                   ]
                 }
@@ -98,7 +100,8 @@
                         "owner": "Golumpa",
                         "repo": "AniDexPy",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:43:31.558Z"
                     }
                   ]
                 }
@@ -134,7 +137,8 @@
                         "owner": "Moodkiller",
                         "repo": "xdelta3-gui-2.0",
                         "stars": 72
-                      }
+                      },
+                      "first_seen": "2026-08-29T01:43:31.558Z"
                     }
                   ]
                 }
@@ -166,8 +170,9 @@
                         "last_commit": "2026-08-24T11:11:44Z",
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 39741
-                      }
+                        "stars": 39766
+                      },
+                      "first_seen": "2026-08-29T01:43:31.558Z"
                     }
                   ]
                 }
@@ -186,7 +191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:08:26.625Z",
+    "last_updated": "2026-08-29T01:43:31.558Z",
     "original_repository_info": {
       "archived": false,
       "id": 259619930,

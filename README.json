@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find the native resolution(s) of upscaled material (mostly anime)",
+                "homepage": null,
                 "id": 105677242,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-18T14:17:40Z",
+                "open_issues": 2,
                 "owner": "Infiziert90",
                 "repo": "getnative",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:31.558Z"
             }
@@ -48,12 +53,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Update of nnedi3 to new avs 2.6 API and port to x64.",
+                        "homepage": null,
                         "id": 15613550,
                         "language": "Assembly",
+                        "license": null,
                         "last_commit": "2026-08-16T10:02:33Z",
+                        "open_issues": 2,
                         "owner": "jpsdr",
                         "repo": "NNEDI3",
-                        "stars": 88
+                        "stars": 88,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:43:31.558Z"
                     }
@@ -94,12 +104,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "A simple Python tool for uploading to AniDex via its API",
+                        "homepage": null,
                         "id": 98699134,
                         "language": "Python",
+                        "license": "WTFPL",
                         "last_commit": "2017-08-28T16:41:19Z",
+                        "open_issues": 0,
                         "owner": "Golumpa",
                         "repo": "AniDexPy",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:43:31.558Z"
                     }
@@ -131,12 +146,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A GUI for creating patches with xdelta3 REBOOTED",
+                        "homepage": null,
                         "id": 76774658,
                         "language": "C#",
+                        "license": null,
                         "last_commit": "2019-08-11T09:52:31Z",
+                        "open_issues": 6,
                         "owner": "Moodkiller",
                         "repo": "xdelta3-gui-2.0",
-                        "stars": 72
+                        "stars": 72,
+                        "topics": [
+                          "gui",
+                          "linux",
+                          "patcher",
+                          "windows",
+                          "xdelta3"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:43:31.558Z"
                     }
@@ -165,12 +191,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "qBittorrent BitTorrent client",
+                        "homepage": "https://www.qbittorrent.org",
                         "id": 3351871,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-24T11:11:44Z",
+                        "open_issues": 2702,
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 39766
+                        "stars": 39771,
+                        "topics": [
+                          "bittorrent",
+                          "bittorrent-client",
+                          "c-plus-plus",
+                          "crossplatform",
+                          "torrent",
+                          "torrent-client"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:43:31.558Z"
                     }
@@ -191,15 +229,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:31.558Z",
+    "last_updated": "2026-08-29T05:04:42.264Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Fork from https://gist.github.com/YukinoAi/acea024631a2585aa592b16b4bde959f",
+      "homepage": null,
       "id": 259619930,
       "language": null,
+      "license": null,
       "last_commit": "2020-04-29T17:26:58Z",
+      "open_issues": 0,
       "owner": "zeriyu",
       "repo": "fansub-guide",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "aegisub",
+        "awesome-list",
+        "demux",
+        "encode",
+        "fansub",
+        "fansubbing",
+        "guide",
+        "playback",
+        "typeset"
+      ]
     },
     "original_repository_sha": "04c4c6de85366ac3ab49176af039a6ebc9f9e1eb",
     "enhanced_repository": "enhansome/enhansome-fansub-guide",

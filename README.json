@@ -196,11 +196,11 @@
                         "id": 3351871,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-01T10:12:54Z",
-                        "open_issues": 2705,
+                        "last_commit": "2026-09-02T14:14:50Z",
+                        "open_issues": 2704,
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 39855,
+                        "stars": 39866,
                         "topics": [
                           "bittorrent",
                           "bittorrent-client",
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:58:10.732Z",
+    "last_updated": "2026-09-02T20:57:57.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Fork from https://gist.github.com/YukinoAi/acea024631a2585aa592b16b4bde959f",

@@ -200,7 +200,7 @@
                         "open_issues": 2703,
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 40991,
+                        "stars": 41019,
                         "topics": [
                           "bittorrent",
                           "bittorrent-client",
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:34:34.939Z",
+    "last_updated": "2026-10-22T21:29:01.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Fork from https://gist.github.com/YukinoAi/acea024631a2585aa592b16b4bde959f",

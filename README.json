@@ -58,7 +58,7 @@
                         "id": 15613550,
                         "language": "Assembly",
                         "license": null,
-                        "last_commit": "2026-11-10T17:34:37Z",
+                        "last_commit": "2026-11-12T11:12:19Z",
                         "open_issues": 2,
                         "owner": "jpsdr",
                         "repo": "NNEDI3",
@@ -197,10 +197,10 @@
                         "language": "C++",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-11T09:29:32Z",
-                        "open_issues": 2736,
+                        "open_issues": 2741,
                         "owner": "qbittorrent",
                         "repo": "qBittorrent",
-                        "stars": 41528,
+                        "stars": 41558,
                         "topics": [
                           "bittorrent",
                           "bittorrent-client",
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:31:33.998Z",
+    "last_updated": "2026-11-12T23:31:01.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Fork from https://gist.github.com/YukinoAi/acea024631a2585aa592b16b4bde959f",
